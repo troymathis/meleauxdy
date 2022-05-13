@@ -7,7 +7,11 @@
 - jQuery
 - javaScript
 - Google Fonts
-
+----
+## Sketch
+![Screen Shot 2022-05-13 at 8 18 28 AM](https://user-images.githubusercontent.com/104251298/168292631-0619ea37-b11f-41d6-ad6d-94738f428735.png)
+---
+## Screenshots
 <img width="1464" alt="Screen Shot 2022-05-13 at 6 12 09 AM" src="https://user-images.githubusercontent.com/104251298/168271780-481a2d06-bbe1-4691-b373-4efbaf7ffbe7.png"/>
 <img width="1461" alt="Screen Shot 2022-05-13 at 6 13 34 AM" src="https://user-images.githubusercontent.com/104251298/168272015-bbfb3e4b-e9f4-4479-96e3-1eef92900f6e.png"/>
 
