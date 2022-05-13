@@ -7,6 +7,7 @@
 - jQuery
 - javaScript
 - Google Fonts
+- iTunes Search API
 ----
 ## Sketch
 ![Screen Shot 2022-05-13 at 8 18 28 AM](https://user-images.githubusercontent.com/104251298/168292631-0619ea37-b11f-41d6-ad6d-94738f428735.png)
