@@ -18,7 +18,7 @@
 
 ---
 ## Getting Started
-### Deployed Website - troymathis.github.io , Instantly find any artist within the iTunes library based off their name/primary genre
+### Deployed Website - [Meleauxdy](https://jolly-baklava-7fee1f.netlify.app) , Instantly find any artist within the iTunes library based off their name/primary genre
 ---
 ## Future Enhancements
 ### - A game that tests the user's knowledge on any artist they choose
